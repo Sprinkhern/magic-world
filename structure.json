@@ -1,0 +1,200 @@
+[
+{
+    "fields": {
+      "name": "Grifinória"
+    },
+    "model": "hogwarts.house",
+    "pk": 1
+  },
+{
+    "fields": {
+      "name": "Sonserina"
+    },
+    "model": "hogwarts.house",
+    "pk": 2
+  },
+{
+    "fields": {
+      "name": "Corvinal"
+    },
+    "model": "hogwarts.house",
+    "pk": 3
+  },
+{
+    "fields": {
+      "name": "Lufa-Lufa"
+    },
+    "model": "hogwarts.house",
+    "pk": 4
+  },
+{
+    "fields": {
+      "name": "Alvo Dumbledore",
+      "house": 1,
+      "alive": False,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 1
+  },
+{
+    "fields": {
+      "name": "Minerva McGonagall",
+      "house": 1,
+      "alive": True,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 2
+  },
+{
+    "fields": {
+      "name": "Rúbeo Hagrid",
+      "house": 1,
+      "alive": True,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 3
+  },
+{
+    "fields": {
+      "name": "Papoula Pomfrey",
+      "house": 1,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 4
+  },
+{
+    "fields": {
+      "name": "Lilían Potter",
+      "house": 1,
+      "alive": False,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 5
+  },
+{
+    "fields": {
+      "name": "Tiago Potter",
+      "house": 1,
+      "alive": False,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 6
+  },
+{
+    "fields": {
+      "name": "Sirius Black",
+      "house": 1,
+      "alive": False,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 6
+  },
+{
+    "fields": {
+      "name": "Remo Lupin",
+      "house": 1,
+      "alive": False,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 7
+  },
+{
+    "fields": {
+      "name": "Harry Potter",
+      "house": 1,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 8
+  },
+{
+    "fields": {
+      "name": "Ronald Weasley",
+      "house": 1,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 9
+  },
+{
+    "fields": {
+      "name": "Hermione Granger",
+      "house": 1,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 10
+  }, 
+{
+    "fields": {
+      "name": "Severo Snape",
+      "house": 2,
+      "alive": False,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 11
+  },
+{
+    "fields": {
+      "name": "Horácio Slughorn",
+      "house": 2,
+      "alive": True,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 12
+  },
+{
+    "fields": {
+      "name": "Dolores Umbridge",
+      "house": 2,
+      "alive": True,
+      "teacher":True
+    },
+    "model": "hogwarts.witch",
+    "pk": 13
+  },
+{
+    "fields": {
+      "name": "Andrômeda Tonks",
+      "house": 2,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 14
+  },
+{
+    "fields": {
+      "name": "Narcisa Malfoy",
+      "house": 2,
+      "alive": True,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 15
+  },
+{
+    "fields": {
+      "name": "Belatrix Lestrange",
+      "house": 2,
+      "alive": False,
+      "teacher":False
+    },
+    "model": "hogwarts.witch",
+    "pk": 16
+  },
+]
